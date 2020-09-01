@@ -1,4 +1,3 @@
-setwd("C:/Users/david/Desktop/R/ExData_Plotting1")
 library(dplyr)
 library(lubridate)
 
